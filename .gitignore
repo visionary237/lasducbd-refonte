@@ -8,4 +8,3 @@ test-results/
 playwright-report/
 .env*
 !.env.example
-apps/web/public/experience/lost-ace/
