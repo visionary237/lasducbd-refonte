@@ -8,6 +8,8 @@ import SiteFooter from "@/components/layout/SiteFooter";
 import AgeGate from "@/components/layout/AgeGate";
 import CookieBanner from "@/components/layout/CookieBanner";
 import JsonLd from "@/components/JsonLd";
+import { CartProvider } from "@/components/cart/CartProvider";
+import CartDrawer from "@/components/cart/CartDrawer";
 import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -25,9 +27,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="fr">
       <body>
         <a href="#contenu" className="skip-link">Aller au contenu</a>
-        <SiteHeader />
-        <main id="contenu">{children}</main>
-        <SiteFooter />
+        <CartProvider>
+          <SiteHeader />
+          <main id="contenu">{children}</main>
+          <SiteFooter />
+          <CartDrawer />
+        </CartProvider>
         <AgeGate />
         <CookieBanner />
         <JsonLd data={{ "@context": "https://schema.org", "@type": "Organization", name: SITE.name, url: SITE.url, sameAs: [SITE.eshopUrl] }} />

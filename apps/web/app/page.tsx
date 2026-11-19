@@ -9,25 +9,37 @@ import WalletCard from "@/components/loyalty/WalletCard";
 import { LinkButton } from "@/components/ui/Button";
 import { BotanicalLines } from "@/components/Botanical";
 import { Gentleman, SuitIcon } from "@/components/Suits";
-import { visibleCategories } from "@/lib/catalog";
+import { visibleCategories, allProducts } from "@/lib/catalog";
+import ProductCard from "@/components/catalog/ProductCard";
 import { STORES } from "@/lib/stores";
 import { ARTICLES } from "@/lib/articles";
 
 export default function Home() {
   const cats = visibleCategories();
+  const all = allProducts();
+  const picks = [...all.filter((p) => p.variants?.length), ...all.filter((p) => p.isNew && !p.variants?.length && p.inStock !== false)].slice(0, 8);
   return (
     <>
       <Hero />
       <Marquee />
 
+      {/* Sélection produits */}
+      <section aria-labelledby="h-sel" className="mx-auto max-w-7xl px-5 pt-24 md:px-8 md:pt-32">
+        <div className="flex flex-wrap items-end justify-between gap-8">
+          <SectionHeading id="h-sel" eyebrow="La sélection du moment" title="Nouveautés & incontournables." intro="Chaque fleur affiche ses taux de CBD et de THC. Livraison offerte sur les fleurs et extractions, ou retrait gratuit en boutique." />
+          <LinkButton href="/produits">Toute la boutique</LinkButton>
+        </div>
+        <ul className="mt-12 grid grid-cols-2 gap-x-4 gap-y-10 md:grid-cols-4 md:gap-x-6">{picks.map((p) => <li key={p.id}><ProductCard p={p} /></li>)}</ul>
+      </section>
+
       {/* Catalogue */}
       <section aria-labelledby="h-cat" className="texture-botanique mx-auto max-w-7xl px-5 py-24 md:px-8 md:py-32">
         <div className="flex flex-wrap items-end justify-between gap-8">
-          <SectionHeading id="h-cat" eyebrow="Le catalogue" title="Une sélection, pas un rayon." intro="Chaque famille de produits est présentée avec ses informations techniques. Les produits à base de chanvre sont accompagnés de leur bulletin d'analyse." />
-          <LinkButton href="/produits" variant="ghost">Tout le catalogue</LinkButton>
+          <SectionHeading id="h-cat" eyebrow="Les rayons" title="Une sélection, pas un rayon." intro="Chaque famille de produits est présentée avec ses informations techniques. Les produits à base de chanvre sont accompagnés de leur bulletin d'analyse." />
+          <LinkButton href="/produits" variant="ghost">Voir la boutique</LinkButton>
         </div>
         <Reveal className="mt-14 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {cats.map((c, i) => <CategoryCard key={c.slug} c={c} index={i} />)}
+          {cats.map((c, i) => <CategoryCard key={c.slug} c={c} index={i} count={all.filter((p) => p.categorySlug === c.slug).length} />)}
           <Link href="/decouvrir-le-cbd" className="gold-frame flex min-h-[19rem] flex-col justify-between bg-charbon-2 p-6 transition hover:bg-charbon-3">
             <span className="t-eyebrow">Premier pas</span>
             <div><p className="t-display text-3xl">Découvrir le CBD</p><p className="mt-3 text-sm text-ivoire/75">Ce qu'est le CBD, ce que dit la loi, comment lire une analyse.</p><span className="mt-5 inline-block text-sm font-bold text-or-2">Lire le guide →</span></div>

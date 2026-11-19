@@ -5,6 +5,7 @@ import { useEffect, useRef, useState } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "motion/react";
 import { NAV } from "@/lib/site";
 import { SuitIcon } from "../Suits";
+import CartButton from "../cart/CartButton";
 
 export default function SiteHeader() {
   const path = usePathname();
@@ -46,7 +47,7 @@ export default function SiteHeader() {
           <span className="t-display text-xl tracking-[0.2em] uppercase">L'As du CBD</span>
         </Link>
         <nav aria-label="Navigation principale" className="hidden lg:block">
-          <ul className="flex items-center gap-7 text-sm">
+          <ul className="flex items-center gap-6 text-sm">
             {NAV.map((n) => (
               <li key={n.href}>
                 <Link href={n.href} aria-current={active(n.href) ? "page" : undefined}
@@ -58,7 +59,8 @@ export default function SiteHeader() {
           </ul>
         </nav>
         <div className="flex items-center gap-3">
-          <Link href="/boutiques" className="hidden rounded-full bg-or px-5 py-2.5 text-sm font-bold text-charbon transition hover:bg-or-2 sm:inline-flex">Trouver une boutique</Link>
+          <Link href="/boutiques" className="hidden rounded-full border border-or/60 px-5 py-2.5 text-sm font-bold text-or-2 transition hover:bg-or hover:text-charbon xl:inline-flex">Trouver une boutique</Link>
+          <CartButton />
           <button ref={btn} onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-controls="menu-mobile" className="flex h-11 w-11 items-center justify-center rounded-full border border-ivoire/25 lg:hidden">
             <span className="sr-only">{open ? "Fermer le menu" : "Ouvrir le menu"}</span>
             <span aria-hidden className="relative block h-3 w-5">

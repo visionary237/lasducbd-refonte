@@ -1,1 +1,6862 @@
-[]
+[
+ {
+  "id": "lasducbd-fleur-cbd-zoap",
+  "slug": "zoap",
+  "name": "Zoap",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 400,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2026/10/fleur-zoap-500x500-c-default.png",
+    "alt": "Zoap"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 21,
+   "thcPercent": 0.18,
+   "origin": null,
+   "cultivation": null,
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 700,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 5000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 40000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/fleur-cbd-zoap/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-fleur-cbd-skunk",
+  "slug": "skunk",
+  "name": "Skunk",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/10/SKUNK-OK-500x500-c-default.png",
+    "alt": "Skunk"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/fleur-cbd-skunk/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-uranium",
+  "slug": "uranium",
+  "name": "Uranium",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/10/URANIUM-OK-500x500-c-default.png",
+    "alt": "Uranium"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/uranium/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mauii",
+  "slug": "mauii",
+  "name": "MAUii",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/10/MAUII-OK-500x500-c-default.png",
+    "alt": "MAUii"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/mauii/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-smoothix",
+  "slug": "smoothix",
+  "name": "Smoothix",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/10/SMOOTHIX-OK-500x500-c-default.png",
+    "alt": "Smoothix"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/smoothix/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-so-frenchys-pineapple-kush-by-las-du-cbd",
+  "slug": "so-frenchy-s-pineapple-kush-by-l-as-du-cbd",
+  "name": "So Frenchy's – Pineapple Kush – by L'AS DU CBD",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/08/FRENCHY-PINEA-OK-500x500-c-default.png",
+    "alt": "So Frenchy's – Pineapple Kush – by L'AS DU CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/so-frenchys-pineapple-kush-by-las-du-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-banana-berry",
+  "slug": "banana-berry",
+  "name": "Banana Berry",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/08/BANANA-BERRY-OK-500x500-c-default.png",
+    "alt": "Banana Berry"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/banana-berry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dos-si-dos",
+  "slug": "dos-si-dos",
+  "name": "Dos-Si-Dos",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/08/DOS-SI-DOS-OK-500x500-c-default.png",
+    "alt": "Dos-Si-Dos"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/dos-si-dos/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gushers-kush",
+  "slug": "gushers-kush",
+  "name": "Gushers Kush",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/08/GUSHERS-OK-500x500-c-default.png",
+    "alt": "Gushers Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/gushers-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-critical",
+  "slug": "critical",
+  "name": "Critical",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 300,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/05/critical-ok-500x500-c-default.png",
+    "alt": "Critical"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/critical/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-rasperry-muffin",
+  "slug": "rasperry-muffin",
+  "name": "Rasperry Muffin",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/05/rasperry-muffin-ok-500x500-c-default.png",
+    "alt": "Rasperry Muffin"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/rasperry-muffin/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-strawberry-lemonade",
+  "slug": "strawberry-lemonade",
+  "name": "Strawberry Lemonade",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/05/straw-lemonade-ok-500x500-c-default.png",
+    "alt": "Strawberry Lemonade"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/strawberry-lemonade/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dream-queen",
+  "slug": "dream-queen",
+  "name": "Dream Queen",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/04/Dream-Queen-ok-500x500-c-default.png",
+    "alt": "Dream Queen"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/dream-queen/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mela-sour",
+  "slug": "mela-sour",
+  "name": "Mela Sour",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/04/Mela-Sour-ok-500x500-c-default.png",
+    "alt": "Mela Sour"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mela-sour/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-blue-cheese",
+  "slug": "blue-cheese",
+  "name": "Blue Cheese",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/04/Blue-Cheese-ok-500x500-c-default.png",
+    "alt": "Blue Cheese"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 12.7,
+   "thcPercent": 0.28,
+   "origin": null,
+   "cultivation": null,
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 600,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 4000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 35000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/blue-cheese/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-lemon-haze",
+  "slug": "lemon-haze",
+  "name": "Lemon Haze",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/Lemon-new-session-ok-500x500-c-default.png",
+    "alt": "Lemon Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 13.6,
+   "thcPercent": 0.22,
+   "origin": null,
+   "cultivation": null,
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 500,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 2500,
+    "inStock": false
+   },
+   {
+    "label": "100 g",
+    "priceCents": 25000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/lemon-haze/",
+  "dataNote": "Fiche actuelle : taux de CBD indiqué à 13,6 % dans l'encadré et 11 % dans le texte — à corriger à la source.",
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tangie-fleur-de-cbd",
+  "slug": "tangie",
+  "name": "Tangie",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/Tangie-ok-500x500-c-default.png",
+    "alt": "Tangie"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/tangie-fleur-de-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-so-frenchys-lemon-haze-by-las-du-cbd",
+  "slug": "so-frenchy-s-lemon-haze-by-l-as-du-cbd",
+  "name": "So Frenchy's – Lemon Haze – by L'AS DU CBD",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 150,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Frenchy-Lemon-500x500-c-default.png",
+    "alt": "So Frenchy's – Lemon Haze – by L'AS DU CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/so-frenchys-lemon-haze-by-las-du-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-so-frenchys-strawberry-kush-by-las-du-cbd",
+  "slug": "so-frenchy-s-strawberry-kush-by-l-as-du-cbd",
+  "name": "So Frenchy's – Strawberry Kush – by L'AS DU CBD",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 150,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Frenchy-straw-500x500-c-default.png",
+    "alt": "So Frenchy's – Strawberry Kush – by L'AS DU CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/so-frenchys-strawberry-kush-by-las-du-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-infusbar-x10",
+  "slug": "infusbar-x10",
+  "name": "Infusbar X10",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/11/image_648344112-500x500-c-default.jpg",
+    "alt": "Infusbar X10"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/infusbar-x10/",
+  "dataNote": null,
+  "compliance": "legal-review",
+  "complianceNote": "Produit d'infusion : relève potentiellement de l'interdiction Novel Food (ingestion).",
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-infusbar-x1",
+  "slug": "infusbar-x1",
+  "name": "Infusbar X1",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 400,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/11/thumbnail_C37CC203-6C05-4FBD-BE7B-3299B074606F-removebg-preview-500x500-c-default.png",
+    "alt": "Infusbar X1"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/infusbar-x1/",
+  "dataNote": null,
+  "compliance": "legal-review",
+  "complianceNote": "Produit d'infusion : relève potentiellement de l'interdiction Novel Food (ingestion).",
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-alien-kush",
+  "slug": "alien-kush",
+  "name": "Alien Kush",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/09/alien-kush-500x500-c-default.jpg",
+    "alt": "Alien Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/alien-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-amnesia-fleurs-de-cbd",
+  "slug": "amnesia-indoor",
+  "name": "Amnesia indoor",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/amnesia-1-1-500x500-c-default.jpg",
+    "alt": "Amnesia indoor"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 14.9,
+   "thcPercent": 0.24,
+   "origin": null,
+   "cultivation": "Indoor",
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 700,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 5000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 35000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/amnesia-fleurs-de-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-amnezia-cali",
+  "slug": "amnezia-cali",
+  "name": "AmneZia Cali",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Amnezia-Cali-500x500-c-default.png",
+    "alt": "AmneZia Cali"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/amnezia-cali/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-baby-bud-cali",
+  "slug": "baby-bud-cali",
+  "name": "Baby Bud Cali",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/10/baby-bud-cali-500x500-c-default.jpg",
+    "alt": "Baby Bud Cali"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/baby-bud-cali/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-baby-bud-premium",
+  "slug": "baby-bud-premium",
+  "name": "Baby Bud Premium",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 150,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/baby-premium--500x500-c-default.jpg",
+    "alt": "Baby Bud Premium"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/baby-bud-premium/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-blue-meringa",
+  "slug": "blue-meringa",
+  "name": "Blue Meringa",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/01/Blue-Meringa-1-500x500-c-default.png",
+    "alt": "Blue Meringa"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/blue-meringa/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-hawaiian-haze",
+  "slug": "hawaiian-haze",
+  "name": "Hawaiian Haze",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Hawaiian-Haze-500x500-c-default.png",
+    "alt": "Hawaiian Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/hawaiian-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-blueberry",
+  "slug": "blueberry-out",
+  "name": "Blueberry out",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 400,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/04/blueberry-1-500x500-c-default.jpg",
+    "alt": "Blueberry out"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/blueberry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-bubba-fleur-de-cbd",
+  "slug": "bubba-kush",
+  "name": "Bubba Kush",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/06/Bubba-Kush-500x500-c-default.png",
+    "alt": "Bubba Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/bubba-fleur-de-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-candy-melon",
+  "slug": "candy-melon",
+  "name": "Candy Melon",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/CANDY-MELON-500x500-c-default.png",
+    "alt": "Candy Melon"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/candy-melon/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cannatonic-fleurs-de-cbd-las-du-cbd",
+  "slug": "cannatonic",
+  "name": "Cannatonic",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/cannatonic--500x500-c-default.jpg",
+    "alt": "Cannatonic"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/cannatonic-fleurs-de-cbd-las-du-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-blueberry-indoor",
+  "slug": "blueberry-indoor",
+  "name": "Blueberry indoor",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Blueberry-indoor-500x500-c-default.png",
+    "alt": "Blueberry indoor"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/blueberry-indoor/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-candy-kush-usa",
+  "slug": "candy-kush-usa",
+  "name": "Candy Kush USA",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/candy-kush-usa-500x500-c-default.jpg",
+    "alt": "Candy Kush USA"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/candy-kush-usa/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-zenfruit",
+  "slug": "zenfruit",
+  "name": "Zenfruit",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/11/ZENFRUIT-1-500x500-c-default.png",
+    "alt": "Zenfruit"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/zenfruit/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-pink-panther",
+  "slug": "pink-panther",
+  "name": "Pink Panther",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/11/Pink-Panther-500x500-c-default.png",
+    "alt": "Pink Panther"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/pink-panther/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gelato",
+  "slug": "gelato-hydro",
+  "name": "Gelato Hydro",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/gelato-500x500-c-default.jpg",
+    "alt": "Gelato Hydro"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/gelato/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gelato-plus",
+  "slug": "gelato-33",
+  "name": "Gélato 33",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 550,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/06/image_64834412-500x500-c-default.jpg",
+    "alt": "Gélato 33"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/gelato-plus/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gorilla-glue",
+  "slug": "gorilla-glue",
+  "name": "Gorilla Glue",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 250,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/GORILLA-GLUE-500x500-c-default.png",
+    "alt": "Gorilla Glue"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 13.9,
+   "thcPercent": 0.21,
+   "origin": null,
+   "cultivation": null,
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 500,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 3000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 25000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/gorilla-glue/",
+  "dataNote": "Fiche actuelle contradictoire : 13,9 % CBD / 0,21 % THC en en-tête, 7,9 % / 0,17 % dans le texte — à corriger à la source.",
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gorilla-mandarine",
+  "slug": "gorilla-mandarine",
+  "name": "Gorilla Mandarine",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/Gorilla-mandarine-500x500-c-default.png",
+    "alt": "Gorilla Mandarine"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/gorilla-mandarine/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-green-crack-usa",
+  "slug": "green-crack-usa",
+  "name": "Green Crack USA",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/10/green-crack-us-500x500-c-default.jpg",
+    "alt": "Green Crack USA"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/green-crack-usa/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gp4",
+  "slug": "gp4",
+  "name": "GP4",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/09/gp4-500x500-c-default.jpg",
+    "alt": "GP4"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/gp4/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-honey-cheese",
+  "slug": "honey-cheese",
+  "name": "Honey Cheese",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/HONEY-CHEESE-500x500-c-default.png",
+    "alt": "Honey Cheese"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/honey-cheese/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-ice-cream-cake",
+  "slug": "ice-cream-cake",
+  "name": "Ice Cream Cake",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/ICE-CREAM-CAKE-500x500-c-default.png",
+    "alt": "Ice Cream Cake"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/ice-cream-cake/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-juicy-fruity",
+  "slug": "juicy-fruity",
+  "name": "Juicy Fruity",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/12/juicy-fruity-500x500-c-default.jpg",
+    "alt": "Juicy Fruity"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/juicy-fruity/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-harlequin",
+  "slug": "harlequin",
+  "name": "Harlequin",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/harlequin-500x500-c-default.jpg",
+    "alt": "Harlequin"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/harlequin/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-key-lime-pie",
+  "slug": "key-lime-pie",
+  "name": "Key Lime Pie",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/KEY-LIME-PIE-500x500-c-default.png",
+    "alt": "Key Lime Pie"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/key-lime-pie/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-kosher-kush",
+  "slug": "kosher-kush",
+  "name": "Kosher Kush",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/KOSHER-KUSH-500x500-c-default.png",
+    "alt": "Kosher Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/kosher-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cherry",
+  "slug": "juicy-out",
+  "name": "Juicy Out",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/02/cherry-1-1-500x500-c-default.jpg",
+    "alt": "Juicy Out"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/cherry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mac-usa",
+  "slug": "mac-usa",
+  "name": "Mac USA",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/MAC-USA-500x500-c-default.png",
+    "alt": "Mac USA"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mac-usa/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mango-sapphire",
+  "slug": "mango-sapphire",
+  "name": "Mango Sapphire",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/image_6483441-500x500-c-default.jpg",
+    "alt": "Mango Sapphire"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mango-sapphire/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-pineapple-express-fleur-de-cbd",
+  "slug": "pineapple-express",
+  "name": "Pineapple Express",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/05/image_123986672-500x500-c-default.jpg",
+    "alt": "Pineapple Express"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/pineapple-express-fleur-de-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-shark-cake",
+  "slug": "shark-cake",
+  "name": "Shark Cake",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/09/sharke-cake-500x500-c-default.jpg",
+    "alt": "Shark Cake"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/shark-cake/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-strawberry",
+  "slug": "strawberry-out",
+  "name": "Strawberry Out",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 150,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/strawberry-1-500x500-c-default.jpg",
+    "alt": "Strawberry Out"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/strawberry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tropical-dream",
+  "slug": "tropical-dream",
+  "name": "Tropical Dream",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/Tropical-dream-500x500-c-default.png",
+    "alt": "Tropical Dream"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/tropical-dream/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tropicana",
+  "slug": "tropicana",
+  "name": "Tropicana",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/TROPICANA-500x500-c-default.png",
+    "alt": "Tropicana"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/tropicana/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-u-v",
+  "slug": "u-v",
+  "name": "U.V",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 300,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/06/image_64834413-500x500-c-default.jpg",
+    "alt": "U.V"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/u-v/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wedding-cake",
+  "slug": "wedding-cake",
+  "name": "Wedding Cake",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/wedding-cake-1-500x500-c-default.jpg",
+    "alt": "Wedding Cake"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 17.2,
+   "thcPercent": 0.19,
+   "origin": "Californie (USA)",
+   "cultivation": "Indoor",
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 900,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 7000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 50000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/wedding-cake/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-zookies",
+  "slug": "zookies",
+  "name": "Zookies",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/07/Zookies-500x500-c-default.png",
+    "alt": "Zookies"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/zookies/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mix-amnesia",
+  "slug": "mix-cali",
+  "name": "Mix Cali",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 100,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/Mix-cali-min-500x500-c-default.png",
+    "alt": "Mix Cali"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mix-amnesia/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mix-strawberry",
+  "slug": "mix-interieur",
+  "name": "Mix Intérieur",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 35,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/Mix-Inte-500x500-c-default.png",
+    "alt": "Mix Intérieur"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mix-strawberry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-mix-bio",
+  "slug": "mix-exterieur",
+  "name": "Mix Extérieur",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 20,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/Mix-exte-min-500x500-c-default.png",
+    "alt": "Mix Extérieur"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/mix-bio/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-drizzle",
+  "slug": "drizzle",
+  "name": "Drizzle",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Drizzle-500x500-c-default.png",
+    "alt": "Drizzle"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/drizzle/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-fruittella",
+  "slug": "fruittella",
+  "name": "Fruittella",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Fruittella-500x500-c-default.png",
+    "alt": "Fruittella"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/fruittella/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-purple-haze-usa",
+  "slug": "purple-haze-usa",
+  "name": "Purple Haze USA",
+  "categorySlug": "fleurs-de-cbd",
+  "subcategory": null,
+  "priceCents": 600,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/purple-haze-usa-500x500-c-default.jpg",
+    "alt": "Purple Haze USA"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": 12.2,
+   "thcPercent": 0.28,
+   "origin": null,
+   "cultivation": null,
+   "formats": [
+    "1 g",
+    "10 g",
+    "100 g"
+   ]
+  },
+  "variants": [
+   {
+    "label": "1 g",
+    "priceCents": 1000,
+    "inStock": true
+   },
+   {
+    "label": "10 g",
+    "priceCents": 8000,
+    "inStock": true
+   },
+   {
+    "label": "100 g",
+    "priceCents": 60000,
+    "inStock": true
+   }
+  ],
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/fleurs-de-cbd/purple-haze-usa/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-resine-cbd-malabar-zoap",
+  "slug": "resine-cbd-malabar-zoap",
+  "name": "Résine CBD Malabar-Zoap",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 600,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2026/10/malabar-zoap-500x700-c-default.png",
+    "alt": "Résine CBD Malabar-Zoap"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/resine-cbd-malabar-zoap/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-resine-cbd-le-hollandais",
+  "slug": "resine-cbd-le-hollandais",
+  "name": "Résine CBD Le Hollandais",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 300,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2026/10/Blocs-de-resine-olive-textures-500x700-c-default.png",
+    "alt": "Résine CBD Le Hollandais"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": true,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/resine-cbd-le-hollandais/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-bab-berred",
+  "slug": "bab-berred",
+  "name": "BAB BERRED",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2025/01/IMG_6664-500x700-c-default.jpg",
+    "alt": "BAB BERRED"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/bab-berred/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-royal-jelly",
+  "slug": "royal-jelly",
+  "name": "Royal Jelly",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/07/ROYAL-JELLY-OK-500x700-c-default.png",
+    "alt": "Royal Jelly"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/royal-jelly/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-hulk",
+  "slug": "hulk",
+  "name": "Hulk",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/HULK-500x700-c-default.png",
+    "alt": "Hulk"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/hulk/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-resine-og-brown",
+  "slug": "resine-og-brown",
+  "name": "Résine OG Brown",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/12/og-brown-ok-500x700-c-default.png",
+    "alt": "Résine OG Brown"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/resine-og-brown/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-resine-gold-press",
+  "slug": "resine-gold-press",
+  "name": "Résine Gold Press",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/12/gold-press-ok-500x700-c-default.png",
+    "alt": "Résine Gold Press"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/resine-gold-press/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-full-black",
+  "slug": "full-black",
+  "name": "Full Black",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/12/full-black-new-ok-500x700-c-default.png",
+    "alt": "Full Black"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/full-black/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-la-creme",
+  "slug": "la-creme",
+  "name": "La Crème",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/La-creme-500x700-c-default.png",
+    "alt": "La Crème"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/la-creme/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-mango-kush",
+  "slug": "wax-cbd-seringue-1ml-mango-kush",
+  "name": "Wax CBD Seringue – 1mL – Mango Kush",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-mango-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Mango Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-mango-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-raw-natural",
+  "slug": "wax-cbd-seringue-1ml-raw-natural",
+  "name": "Wax CBD Seringue – 1mL – Raw Natural",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-raw-nat-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Raw Natural"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-raw-natural/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-purple-haze",
+  "slug": "wax-cbd-seringue-1ml-purple-haze",
+  "name": "Wax CBD Seringue – 1mL – Purple Haze",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-purple-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Purple Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-purple-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-lemon-haze",
+  "slug": "wax-cbd-seringue-1ml-lemon-haze",
+  "name": "Wax CBD Seringue – 1mL – Lemon Haze",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-lemon-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Lemon Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-lemon-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-o-g-kush",
+  "slug": "wax-cbd-seringue-1ml-o-g-kush",
+  "name": "Wax CBD Seringue – 1mL – O.G. Kush",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-og-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – O.G. Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-o-g-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-gorilla-glue",
+  "slug": "wax-cbd-seringue-1ml-gorilla-glue",
+  "name": "Wax CBD Seringue – 1mL – Gorilla Glue",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-gorilla-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Gorilla Glue"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-gorilla-glue/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-girl-scout-cookies",
+  "slug": "wax-cbd-seringue-1ml-girl-scout-cookies",
+  "name": "Wax CBD Seringue – 1mL – Girl Scout Cookies",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-gsc-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Girl Scout Cookies"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-girl-scout-cookies/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-blue-cheese",
+  "slug": "wax-cbd-seringue-1ml-blue-cheese",
+  "name": "Wax CBD Seringue – 1mL – Blue Cheese",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-blue-cheese-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Blue Cheese"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-blue-cheese/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-critical-mass",
+  "slug": "wax-cbd-seringue-1ml-critical-mass",
+  "name": "Wax CBD Seringue – 1mL – Critical Mass",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-critical-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Critical Mass"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-critical-mass/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-amnesia-haze",
+  "slug": "wax-cbd-seringue-1ml-amnesia-haze",
+  "name": "Wax CBD Seringue – 1mL – Amnesia Haze",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-amnesia-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Amnesia Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-amnesia-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd-seringue-1ml-blueberry",
+  "slug": "wax-cbd-seringue-1ml-blueberry",
+  "name": "Wax CBD Seringue – 1mL – Blueberry",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/seringue-blue-berry-500x700-c-default.png",
+    "alt": "Wax CBD Seringue – 1mL – Blueberry"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd-seringue-1ml-blueberry/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-charas",
+  "slug": "charas",
+  "name": "Charas",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/09/Design-sans-titre-500x700-c-default.png",
+    "alt": "Charas"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/charas/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-crystal-de-cbd",
+  "slug": "crystal-de-cbd",
+  "name": "Crystal de CBD",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/image_64834418-500x700-c-default.jpg",
+    "alt": "Crystal de CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/promotions/crystal-de-cbd/",
+  "dataNote": null,
+  "compliance": "legal-review",
+  "complianceNote": "Isolat : usage et statut à préciser avant publication.",
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cookie-cream-cbg-resine-de-cbg",
+  "slug": "cookie-cream-cbg",
+  "name": "Cookie Cream CBG",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/cookie-cream-site-2-scaled-500x700-c-default.jpg",
+    "alt": "Cookie Cream CBG"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/promotions/cookie-cream-cbg-resine-de-cbg/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-filtre-x-1",
+  "slug": "filtre-x1",
+  "name": "Filtré X1",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 600,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/08/filtre-x1-2-500x700-c-default.jpg",
+    "alt": "Filtré X1"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/filtre-x-1/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-ice-o-lator",
+  "slug": "ice-o-lator",
+  "name": "ice o lator",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/10/ice-o-lator-500x700-c-default.jpg",
+    "alt": "ice o lator"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/ice-o-lator/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-le-caramelo",
+  "slug": "le-caramelo",
+  "name": "Le Caramelo",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/caramelo-hash-500x700-c-default.jpg",
+    "alt": "Le Caramelo"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/le-caramelo/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-le-royal",
+  "slug": "le-royal",
+  "name": "Le Royal",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/image_1239866724-500x700-c-default.jpg",
+    "alt": "Le Royal"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/le-royal/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-le-jaune",
+  "slug": "le-jaune",
+  "name": "Le Jaune",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 350,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/jaune-hash-500x700-c-default.jpg",
+    "alt": "Le Jaune"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/le-jaune/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-primero-hash",
+  "slug": "primero-hash",
+  "name": "Primero Hash",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/06/primero-hash-500x700-c-default.jpg",
+    "alt": "Primero Hash"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/primero-hash/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-statik",
+  "slug": "statik-frozen",
+  "name": "Statik Frozen",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/10/statik-500x700-c-default.jpg",
+    "alt": "Statik Frozen"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/statik/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-moonrock-gelato",
+  "slug": "moonrock-gelato",
+  "name": "Moonrock Gelato",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/03/Moonrock-Gelato-500x700-c-default.png",
+    "alt": "Moonrock Gelato"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/moonrock-gelato/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-resine-filtre",
+  "slug": "filtre-x3-home-made",
+  "name": "Filtré X3 – Home Made",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 550,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/Filtre-x3-2-500x700-c-default.png",
+    "alt": "Filtré X3 – Home Made"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/resine-filtre/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-ice-rock",
+  "slug": "ice-rock",
+  "name": "Ice Rock",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 600,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/las-ducbd-ICEROCK-1-500x700-c-default.webp",
+    "alt": "Ice Rock"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/ice-rock/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-moon-rock-cbd",
+  "slug": "moonrock-65-cbd",
+  "name": "Moonrock 65% CBD",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/las-ducbd-moonrockCBD-500x700-c-default.png",
+    "alt": "Moonrock 65% CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/moon-rock-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-wax-cbd",
+  "slug": "wax-cbd",
+  "name": "Wax CBD",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 1000,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/image_64834416-500x700-c-default.jpg",
+    "alt": "Wax CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/wax-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-moon-rock-cbg",
+  "slug": "moon-rock-cbg",
+  "name": "Moon Rock CBG",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 450,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/las-ducbd-moonrockCBG-500x700-c-default.png",
+    "alt": "Moon Rock CBG"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/moon-rock-cbg/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-skuff-2",
+  "slug": "skuff",
+  "name": "Skuff",
+  "categorySlug": "hash-et-extractions",
+  "subcategory": null,
+  "priceCents": 200,
+  "priceFrom": true,
+  "priceUnit": "le g",
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/image_64834417-500x700-c-default.jpg",
+    "alt": "Skuff"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/solides-cbd/skuff-2/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vapo-mambo",
+  "slug": "vapo-mambo",
+  "name": "Vapo Mambo",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 5000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/07/vaporizador-xvape-cheech-chong_18685_20230714091154007596_-500x550-c-default.jpg",
+    "alt": "Vapo Mambo"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateurs/vapo-mambo/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-volvano-gold",
+  "slug": "vaporisateur-volvano-gold",
+  "name": "Vaporisateur Volvano Gold",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 39900,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/88361-500x550-c-default.jpg",
+    "alt": "Vaporisateur Volvano Gold"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateur-volvano-gold/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-plenty-2",
+  "slug": "vaporisateur-plenty",
+  "name": "Vaporisateur Plenty",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 22000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/76459-500x550-c-default.jpg",
+    "alt": "Vaporisateur Plenty"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateurs/vaporisateur-plenty-2/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-portable-crafty",
+  "slug": "vaporisateur-portable-crafty",
+  "name": "Vaporisateur portable Crafty+",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 25000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/54888-500x550-c-default.jpg",
+    "alt": "Vaporisateur portable Crafty+"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateurs/vaporisateur-portable-crafty/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-mighty",
+  "slug": "vaporisateur-portable-mighty",
+  "name": "Vaporisateur portable Mighty",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 28000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/04/14386-500x550-c-default.jpg",
+    "alt": "Vaporisateur portable Mighty"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateurs/vaporisateur-mighty/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-portable-pax-3-kit-complet",
+  "slug": "vaporisateur-portable-pax-3-kit-complet",
+  "name": "Vaporisateur Portable PAX 3 Kit Complet",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 24000,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/619-QpAyuyL._AC_SL1500_-500x550-c-default.jpg",
+    "alt": "Vaporisateur Portable PAX 3 Kit Complet"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateur-portable-pax-3-kit-complet/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-vaporisateur-portable-pax-2",
+  "slug": "vaporisateur-portable-pax-2",
+  "name": "Vaporisateur Portable PAX 2",
+  "categorySlug": "e-cbd",
+  "subcategory": "vaporisateurs",
+  "priceCents": 14900,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/PL-PAX2-V2-CHAR_1007-scaled-500x550-c-default.jpg",
+    "alt": "Vaporisateur Portable PAX 2"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/vaporisateurs/vaporisateur-portable-pax-2/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-booster-de-cbd",
+  "slug": "e-liquide-booster-de-cbd",
+  "name": "E-liquide Booster de CBD",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/05/booster-cbd-greeneo.jpg-removebg-preview-500x550-c-default.png",
+    "alt": "E-liquide Booster de CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-booster-de-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-anmesai",
+  "slug": "e-liquide-cbd-anmesai",
+  "name": "E-liquide CBD Anmesai",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/06/eliquide-cbd-anmesai-2-500x550-c-default.webp",
+    "alt": "E-liquide CBD Anmesai"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-anmesai/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-ketama",
+  "slug": "e-liquide-cbd-ketama",
+  "name": "E-liquide CBD Ketama",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/05/ketama-cbd-greeneo-removebg-preview-500x550-c-default.png",
+    "alt": "E-liquide CBD Ketama"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-ketama/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-og-kush",
+  "slug": "e-liquide-cbd-og-kush",
+  "name": "E-liquide CBD OG Kush",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/05/og-kush-cbd-10-ml-greeneo-removebg-preview-500x550-c-default.png",
+    "alt": "E-liquide CBD OG Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-og-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-lemon-haze",
+  "slug": "e-liquide-cbd-lemon-haze",
+  "name": "E-liquide CBD Lemon Haze",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/06/eliquide-cbd-lemon-haze-1-500x550-c-default.webp",
+    "alt": "E-liquide CBD Lemon Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-lemon-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-mango-haze",
+  "slug": "e-liquide-cbd-mango-haze",
+  "name": "E-liquide CBD Mango Haze",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/06/eliquide-cbd-mango-haze-2-500x550-c-default.webp",
+    "alt": "E-liquide CBD Mango Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-mango-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-e-liquide-cbd-purple-haze",
+  "slug": "e-liquide-cbd-purple-haze",
+  "name": "E-liquide CBD Purple Haze",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": null,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/06/eliquide-cbd-purple-haze-1-500x550-c-default.webp",
+    "alt": "E-liquide CBD Purple Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": false,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/e-liquide-cbd-purple-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-batterie-weedeo",
+  "slug": "dap-pen-batterie",
+  "name": "Dap Pen – Batterie",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarette-electronique",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/batterie-500x550-c-default.png",
+    "alt": "Dap Pen – Batterie"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarette-electronique/batterie-weedeo/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-recharge-amnesia-kush",
+  "slug": "dab-pen-recharge-amnesia-kush",
+  "name": "Dab Pen recharge – Amnesia Kush",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/cartouche-vape-pen-85-cbd-amnesia-kush-500x550-c-default.webp",
+    "alt": "Dab Pen recharge – Amnesia Kush"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/dab-pen-recharge-amnesia-kush/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-14998",
+  "slug": "dab-pen-recharge-blue-dream",
+  "name": "Dab Pen recharge – Blue Dream",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/cartouche-vape-pen-85-cbd-blue-dream-500x550-c-default.webp",
+    "alt": "Dab Pen recharge – Blue Dream"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/14998/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-recharge-lemon-haze",
+  "slug": "dab-pen-recharge-lemon-haze",
+  "name": "Dab Pen recharge – Lemon Haze",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/cartouche-vape-pen-85-cbd-lemon-haze-500x550-c-default.webp",
+    "alt": "Dab Pen recharge – Lemon Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/dab-pen-recharge-lemon-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-recharge-purple-punch",
+  "slug": "dab-pen-recharge-purple-punch",
+  "name": "Dab Pen recharge – Purple Punch",
+  "categorySlug": "e-cbd",
+  "subcategory": "e-liquides",
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/cartouche-vape-pen-85-cbd-purple-punch-500x550-c-default.webp",
+    "alt": "Dab Pen recharge – Purple Punch"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/liquides-cbd/dab-pen-recharge-purple-punch/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-lemon-haze",
+  "slug": "dab-pen-lemon-haze",
+  "name": "Dab Pen – Lemon Haze",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarettes-jetables",
+  "priceCents": 2490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/dab-pen-jetable-85-cbd-lemon-haze-500x550-c-default.webp",
+    "alt": "Dab Pen – Lemon Haze"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarettes-jetables/dab-pen-lemon-haze/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-blue-dream",
+  "slug": "dab-pen-blue-dream",
+  "name": "Dab Pen – Blue Dream",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarettes-jetables",
+  "priceCents": 2490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/vape-pen-jetable-85-cbd-blue-dream-500x550-c-default.webp",
+    "alt": "Dab Pen – Blue Dream"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarettes-jetables/dab-pen-blue-dream/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-dab-pen-purple-punch",
+  "slug": "dab-pen-purple-punch",
+  "name": "Dab Pen – Purple Punch",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarettes-jetables",
+  "priceCents": 2490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/vape-pen-jetable-85-cbd-purple-punch-500x550-c-default.webp",
+    "alt": "Dab Pen – Purple Punch"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarettes-jetables/dab-pen-purple-punch/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-justfog-q16-c-black",
+  "slug": "justfog-q16-c-black",
+  "name": "Justfog – Q16 (C) – Black",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarette-electronique",
+  "priceCents": 3000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/kit-q16-justfog-black-500x550-c-default.jpg",
+    "alt": "Justfog – Q16 (C) – Black"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarette-electronique/justfog-q16-c-black/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-justfog-kit-q16-pro-silver",
+  "slug": "justfog-kit-q16-pro-silver",
+  "name": "Justfog Kit Q16 Pro – Silver",
+  "categorySlug": "e-cbd",
+  "subcategory": "cigarette-electronique",
+  "priceCents": 4000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/jusfog-q16-pro-kit-silver2-500x550-c-default.jpg",
+    "alt": "Justfog Kit Q16 Pro – Silver"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/cigarette-electronique/justfog-kit-q16-pro-silver/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-chicha-cbd-grape-mint",
+  "slug": "chicha-cbd-grape-mint-200g",
+  "name": "Chicha CBD Grape Mint – 200g",
+  "categorySlug": "e-cbd",
+  "subcategory": "chicha",
+  "priceCents": 1995,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/IMG_1955-removebg-preview-3-500x550-c-default.webp",
+    "alt": "Chicha CBD Grape Mint – 200g"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/promotions/chicha-cbd-grape-mint/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-chicha-cbd-mint",
+  "slug": "chicha-cbd-mint-200g",
+  "name": "Chicha CBD Mint – 200g",
+  "categorySlug": "e-cbd",
+  "subcategory": "chicha",
+  "priceCents": 1995,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/IMG_1955-removebg-preview-4-500x550-c-default.webp",
+    "alt": "Chicha CBD Mint – 200g"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/promotions/chicha-cbd-mint/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-charbon-tom-cocogold-9pcs",
+  "slug": "charbon-tom-cocogold-9pcs",
+  "name": "Charbon Tom CocoGold 9pcs",
+  "categorySlug": "e-cbd",
+  "subcategory": "chicha",
+  "priceCents": 290,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/CharbonTom9pcs-500x550-c-default.png",
+    "alt": "Charbon Tom CocoGold 9pcs"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/e-cbd/chicha-cbd/charbon-tom-cocogold-9pcs/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cbd-relief-balm-1500mg",
+  "slug": "cbd-relief-balm-1500mg",
+  "name": "CBD Relief Balm – 1500mg",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1890,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/hanfmate-cannaline-cbd-skin-therapy-320x320-removebg-preview-500x550-c-default.png",
+    "alt": "CBD Relief Balm – 1500mg"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/cbd-relief-balm-1500mg/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cannatiger-balm-cold-effect-3-cbd-0-6-cbg-12ml",
+  "slug": "cannatiger-balm-cold-effect-3-cbd-0-6-cbg-12ml",
+  "name": "Cannatiger Balm Cold Effect – 3% CBD – 0.6% CBG – 12mL",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/11/tiger-balm-cold-effect-3-cbd-06-cbg-12-ml-500x550-c-default.png",
+    "alt": "Cannatiger Balm Cold Effect – 3% CBD – 0.6% CBG – 12mL"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/cannatiger-balm-cold-effect-3-cbd-0-6-cbg-12ml/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-baume-chanvre",
+  "slug": "baume-chanvre",
+  "name": "Baume chanvre",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/euphoria-balm-creme-1-500x550-c-default.webp",
+    "alt": "Baume chanvre"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/baume-chanvre/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-creme-de-jour",
+  "slug": "creme-de-jour",
+  "name": "Crème de jour",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 2990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/IMG_2807-removebg-preview2-500x550-c-default.png",
+    "alt": "Crème de jour"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/creme-de-jour/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-creme-de-nuit",
+  "slug": "creme-de-nuit",
+  "name": "Crème de nuit",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 2990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/10/IMG_2808-removebg-preview-1-500x550-c-default.webp",
+    "alt": "Crème de nuit"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/creme-de-nuit/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-creme-de-chanvre",
+  "slug": "creme-de-chanvre",
+  "name": "Crème de chanvre",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1590,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/08/hemp-cream-1-500x550-c-default.webp",
+    "alt": "Crème de chanvre"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/creme-de-chanvre/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-bougie-de-massage",
+  "slug": "bougie-de-massage",
+  "name": "Bougie de massage",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/bougie-massage-500x550-c-default.jpg",
+    "alt": "Bougie de massage"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/bougie-de-massage/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-huile-chanvre",
+  "slug": "huile-chanvre",
+  "name": "Huile chanvre",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/oil-500x550-c-default.webp",
+    "alt": "Huile chanvre"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/huile-chanvre/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-daily-active-spray",
+  "slug": "daily-active-spray",
+  "name": "Daily active spray",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 2990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/active-spray-500x550-c-default.jpg",
+    "alt": "Daily active spray"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/daily-active-spray/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-coffret-bain",
+  "slug": "coffret-bain",
+  "name": "Coffret bain",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/coffret-bath-1-500x550-c-default.webp",
+    "alt": "Coffret bain"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/coffret-bain/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-coffret-douche",
+  "slug": "coffret-duo",
+  "name": "Coffret duo",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/coffret-rond-500x550-c-default.webp",
+    "alt": "Coffret duo"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/coffret-douche/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-hemp-balm",
+  "slug": "hemp-balm",
+  "name": "Hemp balm",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1590,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/hemp-balm-1-500x550-c-default.webp",
+    "alt": "Hemp balm"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/hemp-balm/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-shampoing",
+  "slug": "shampoing",
+  "name": "Shampoing",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 390,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/shampoo-1-500x550-c-default.webp",
+    "alt": "Shampoing"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/shampoing/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-huile-de-massage",
+  "slug": "huile-de-massage",
+  "name": "Huile de massage",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 2990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/08/huilemassage-1-500x550-c-default.webp",
+    "alt": "Huile de massage"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/huile-de-massage/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-6998",
+  "slug": "coffret-cadeau-luxe-cbd-infused-the-vert-chanvre",
+  "name": "Coffret Cadeau Luxe CBD Infused Thé Vert & Chanvre",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/08/coffret-cadeau-1-500x550-c-default.webp",
+    "alt": "Coffret Cadeau Luxe CBD Infused Thé Vert & Chanvre"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/6998/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cbd-daily-serum",
+  "slug": "cbd-daily-serum",
+  "name": "CBD daily Serum",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/08/C14B3B32-EF55-4127-8846-147D07D57941-removebg-preview-500x550-c-default.png",
+    "alt": "CBD daily Serum"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/cbd-daily-serum/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-creme-canna-aloe-verra-cbd-50ml",
+  "slug": "creme-canna-aloe-verra-cbd-50ml",
+  "name": "Crème Canna Aloe Verra CBD 50ml",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/06/cosmetique-cbd-gel-aloe-vera-50-500x550-c-default.jpg",
+    "alt": "Crème Canna Aloe Verra CBD 50ml"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/creme-canna-aloe-verra-cbd-50ml/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-baume-du-tigre-cbd-150mg-2",
+  "slug": "baume-du-tigre-cbd-150mg",
+  "name": "Baume du Tigre CBD 150mg",
+  "categorySlug": "cosmetiques",
+  "subcategory": null,
+  "priceCents": 1500,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/IMG_1061-removebg-preview-500x550-c-default.png",
+    "alt": "Baume du Tigre CBD 150mg"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cosmetiques/baume-du-tigre-cbd-150mg-2/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-grinder-gold-4-parties-avec-tamis",
+  "slug": "grinder-gold-4-parties-avec-tamis",
+  "name": "Grinder Gold 4 parties avec tamis",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 1690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/IMG_1500-removebg-preview-500x550-c-default.png",
+    "alt": "Grinder Gold 4 parties avec tamis"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/grinder-gold-4-parties-avec-tamis/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-grinder-metal-4-parties-avec-tamis",
+  "slug": "grinder-metal-4-parties-avec-tamis",
+  "name": "Grinder Metal 4 parties avec tamis",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/IMG_1501-removebg-preview-1-500x550-c-default.webp",
+    "alt": "Grinder Metal 4 parties avec tamis"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/grinder-metal-4-parties-avec-tamis/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-sharpshred-herb-grinder",
+  "slug": "sharpshred-herb-grinder",
+  "name": "SharpShred Herb Grinder",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 2990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/03/GRINDER_SYNDICATE-e1679313028629-500x550-c-default.png",
+    "alt": "SharpShred Herb Grinder"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/sharpshred-herb-grinder/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-grinder-moulin-4-parties-tamis-amovible",
+  "slug": "grinder-moulin-4-parties-tamis-amovible",
+  "name": "Grinder moulin 4 parties tamis amovible",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 2990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/gros-moulin-1-1-500x550-c-default.webp",
+    "alt": "Grinder moulin 4 parties tamis amovible"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/grinder-moulin-4-parties-tamis-amovible/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-grinder-moulin-55mm",
+  "slug": "grinder-moulin-4-parties",
+  "name": "Grinder moulin 4 parties",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 2290,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/moulin-silver-500x550-c-default.png",
+    "alt": "Grinder moulin 4 parties"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/grinder-moulin-55mm/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-carte-grinder-as-et-joker",
+  "slug": "carte-grinder-as-et-joker",
+  "name": "Carte Grinder As et Joker",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/carte-as-1-500x550-c-default.webp",
+    "alt": "Carte Grinder As et Joker"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/carte-grinder-as-et-joker/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-carte-grinder-royal-highness",
+  "slug": "carte-grinder-royal-highness",
+  "name": "Carte Grinder Royal Highness",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 500,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/carte-highness-500x550-c-default.jpg",
+    "alt": "Carte Grinder Royal Highness"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/carte-grinder-royal-highness/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-boite-grinder",
+  "slug": "boite-grinder",
+  "name": "Boîte-Grinder",
+  "categorySlug": "accessoires",
+  "subcategory": "grinders",
+  "priceCents": 300,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/06/1-500x550-c-default.png",
+    "alt": "Boîte-Grinder"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/grinder/boite-grinder/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-balance-truweight-tw-100-ams",
+  "slug": "balance-truweight-tw-100-ams",
+  "name": "Balance Truweight – TW-100-AMS",
+  "categorySlug": "accessoires",
+  "subcategory": "balances",
+  "priceCents": 3000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Balance-XXX-Amsterdam-500x550-c-default.png",
+    "alt": "Balance Truweight – TW-100-AMS"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/balances-de-precision/balance-truweight-tw-100-ams/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-balance-delta-600",
+  "slug": "balance-delta-600",
+  "name": "Balance Delta-600",
+  "categorySlug": "accessoires",
+  "subcategory": "balances",
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Balance-Delta-600-500x550-c-default.png",
+    "alt": "Balance Delta-600"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/balances-de-precision/balance-delta-600/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-balance-alpha-600",
+  "slug": "balance-alpha-600",
+  "name": "Balance Alpha-600",
+  "categorySlug": "accessoires",
+  "subcategory": "balances",
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Balance-Alpha-600-500x550-c-default.png",
+    "alt": "Balance Alpha-600"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/balances-de-precision/balance-alpha-600/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-balance-v-syndicate-scalebud-dark-cat",
+  "slug": "balance-v-syndicate-scalebud-dark-cat",
+  "name": "Balance V Syndicate Scalebud – Dark Cat",
+  "categorySlug": "accessoires",
+  "subcategory": "balances",
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/Balance-scalebud-dark-cat-1-500x550-c-default.png",
+    "alt": "Balance V Syndicate Scalebud – Dark Cat"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/balances-de-precision/balance-v-syndicate-scalebud-dark-cat/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-plateau-en-verre-blue-dream",
+  "slug": "plateau-en-verre-blue-dream",
+  "name": "Plateau en verre Blue Dream",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 1990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/Blue-DankMEDIUM_LRG-500x550-c-default.jpg",
+    "alt": "Plateau en verre Blue Dream"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/plateau-en-verre-blue-dream/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-plateau-en-metal-van-gogh",
+  "slug": "plateau-en-metal-van-gogh",
+  "name": "Plateau en métal Van Gogh",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/fenetre-gd-1-500x550-c-default.jpg",
+    "alt": "Plateau en métal Van Gogh"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/plateau-en-metal-van-gogh/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-plateau-en-metal-chameleon",
+  "slug": "plateau-en-metal-chameleon",
+  "name": "Plateau en métal Chameleon",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 690,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/cameleon-gd-500x550-c-default.jpg",
+    "alt": "Plateau en métal Chameleon"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/plateau-en-metal-chameleon/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-plateau-en-metal-electric-flower",
+  "slug": "plateau-en-metal-electric-flower",
+  "name": "Plateau en métal Electric Flower",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/electric-flower-gd-500x550-c-default.jpg",
+    "alt": "Plateau en métal Electric Flower"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/plateau-en-metal-electric-flower/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-plateau-platine",
+  "slug": "plateau-platine",
+  "name": "Plateau Platine",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/plat-petit-platine-500x550-c-default.png",
+    "alt": "Plateau Platine"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/plateau-platine/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tin-box-van-gogh-couvercle-simple",
+  "slug": "tinbox-van-gogh-couvercle-simple",
+  "name": "TinBox – Van Gogh – Couvercle Simple",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 590,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/van-gogh-500x550-c-default.jpg",
+    "alt": "TinBox – Van Gogh – Couvercle Simple"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/tin-box-van-gogh-couvercle-simple/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tinbox-electric-flower-couvercle-plateau",
+  "slug": "tinbox-electric-flower-couvercle-plateau",
+  "name": "TinBox – Electric Flower – Couvercle Plateau",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/electric-flower-plat-500x550-c-default.jpg",
+    "alt": "TinBox – Electric Flower – Couvercle Plateau"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/tinbox-electric-flower-couvercle-plateau/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tinbox-chameleon-couvercle-plateau",
+  "slug": "tinbox-chameleon-couvercle-plateau",
+  "name": "TinBox – Chameleon – Couvercle Plateau",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/chameleonplat-500x550-c-default.jpg",
+    "alt": "TinBox – Chameleon – Couvercle Plateau"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/tinbox-chameleon-couvercle-plateau/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tinbox-hamsa-couvercle-simple",
+  "slug": "tinbox-hamsa-couvercle-simple",
+  "name": "TinBox – Hamsa – Couvercle Simple",
+  "categorySlug": "accessoires",
+  "subcategory": "boites-plateaux",
+  "priceCents": 590,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/09/hamsa-e1694693842857-500x550-c-default.jpg",
+    "alt": "TinBox – Hamsa – Couvercle Simple"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/plateau/tinbox-hamsa-couvercle-simple/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuilles-a-rouler-las-du-cbd",
+  "slug": "feuilles-a-rouler-l-as-du-cbd",
+  "name": "Feuilles à rouler L'AS DU CBD",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 100,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/IMG-1153-removebg-preview-500x550-c-default.png",
+    "alt": "Feuilles à rouler L'AS DU CBD"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuilles-a-rouler-las-du-cbd/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuilles-a-rouler-raw-classic",
+  "slug": "feuilles-a-rouler-raw-classic",
+  "name": "Feuilles à rouler Raw Classic",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 200,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/03/Raw_classic-500x550-c-default.png",
+    "alt": "Feuilles à rouler Raw Classic"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuilles-a-rouler-raw-classic/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuille-slim-raw-black",
+  "slug": "feuilles-a-rouler-raw-black",
+  "name": "Feuilles à rouler Raw Black",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 200,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/IMG-0987-removebg-preview-e1674221236933-500x550-c-default.png",
+    "alt": "Feuilles à rouler Raw Black"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuille-slim-raw-black/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuilles-a-rouler-ocb-ultimate-filtres",
+  "slug": "feuilles-a-rouler-ocb-ultimate-filtres",
+  "name": "Feuilles à rouler OCB Ultimate + Filtres",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 250,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/IMG-1152-removebg-preview-500x550-c-default.png",
+    "alt": "Feuilles à rouler OCB Ultimate + Filtres"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuilles-a-rouler-ocb-ultimate-filtres/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuille-a-rouler-ocb-gold",
+  "slug": "feuilles-a-rouler-ocb-gold",
+  "name": "Feuilles à rouler OCB Gold",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 200,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/01/IMG-0985-removebg-preview-e1674222195367-500x550-c-default.png",
+    "alt": "Feuilles à rouler OCB Gold"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuille-a-rouler-ocb-gold/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-maxi-feuille-hrb-explosion",
+  "slug": "maxi-feuille-hrb-explosion",
+  "name": "Maxi feuille HRB Explosion",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/11/hrb-30cm-500x550-c-default.jpg",
+    "alt": "Maxi feuille HRB Explosion"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/maxi-feuille-hrb-explosion/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cone-raw",
+  "slug": "cone-raw",
+  "name": "CÔNE RAW",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 490,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/cone-raw-500x550-c-default.jpg",
+    "alt": "CÔNE RAW"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/cone-raw/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-feuilles-a-rouler-juicy-hemp-wraps-original",
+  "slug": "juicy-jay-s-hemp-wraps-original",
+  "name": "Juicy Jay's Hemp Wraps – Original",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 150,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/blunt_chanvre_juicy_original_fero-0444_x1_fr-500x550-c-default.jpg",
+    "alt": "Juicy Jay's Hemp Wraps – Original"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/feuilles-a-rouler-juicy-hemp-wraps-original/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-blunt-chanvre-original-hemp",
+  "slug": "g-rollz-original-hemp",
+  "name": "G.Rollz – Original Hemp",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 300,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/04/Original-Hemp-500x550-c-default.png",
+    "alt": "G.Rollz – Original Hemp"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/blunt-chanvre-original-hemp/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-royal-blunt-hemparillo-naked",
+  "slug": "royal-blunt-hemparillo-naked",
+  "name": "Royal Blunt Hemparillo – Naked",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 300,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/11/royal_blunts_hemparillo_naked-500x550-c-default.jpg",
+    "alt": "Royal Blunt Hemparillo – Naked"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/feuilles/royal-blunt-hemparillo-naked/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-filtre-en-verre-yellow-finger",
+  "slug": "filtre-en-verre-yellow-finger",
+  "name": "Filtre en verre Yellow Finger",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 390,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2024/02/filtre-yellow-finger-en-verre-de-murano-small-500x550-c-default.png",
+    "alt": "Filtre en verre Yellow Finger"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/filtres/filtre-en-verre-yellow-finger/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-filtres-a-charbon-actif-actitube-slim-50",
+  "slug": "filtres-a-charbon-actif-actitube-slim-50",
+  "name": "Filtres à charbon actif – Actitube Slim 50",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/actitube-50-1-500x550-c-default.webp",
+    "alt": "Filtres à charbon actif – Actitube Slim 50"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/filtres/filtres-a-charbon-actif-actitube-slim-50/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-filtres-a-charbon-actif-purize-xtra-slim",
+  "slug": "filtres-a-charbon-actif-purize-xtra-slim",
+  "name": "Filtres à charbon actif – Purize Xtra Slim",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/04/purize-xtra-slim-500x550-c-default.jpg",
+    "alt": "Filtres à charbon actif – Purize Xtra Slim"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/nouveautes/filtres-a-charbon-actif-purize-xtra-slim/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-tips-raw",
+  "slug": "tips-raw",
+  "name": "Tips Raw",
+  "categorySlug": "accessoires",
+  "subcategory": "feuilles-filtres",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2022/11/image_648344110-500x550-c-default.jpg",
+    "alt": "Tips Raw"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/filtres/tips-raw/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-briquet-clipper-gold",
+  "slug": "briquet-clipper-gold",
+  "name": "Briquet Clipper Gold",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/2-500x550-c-default.png",
+    "alt": "Briquet Clipper Gold"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/briquets/briquet-clipper-gold/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-briquet-clipper",
+  "slug": "briquet-clipper-essence",
+  "name": "Briquet Clipper Essence",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 990,
+  "priceFrom": true,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/1-500x550-c-default.png",
+    "alt": "Briquet Clipper Essence"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/briquets/briquet-clipper/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-briquet-clipper-metal-leaf-gold",
+  "slug": "briquet-clipper-metal-leaf-gold",
+  "name": "Briquet Clipper métal leaf gold",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/5f62111f-7002-478e-ae6e-c5077d10132fjpg-500x550-c-default.jpg",
+    "alt": "Briquet Clipper métal leaf gold"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/briquets/briquet-clipper-metal-leaf-gold/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-briquet-clipper-metal-rose",
+  "slug": "briquet-clipper-metal-rose",
+  "name": "Briquet Clipper métal rose",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 990,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/12/9822dd0e-045f-46fc-a979-3d657197131a-500x550-c-default.jpg",
+    "alt": "Briquet Clipper métal rose"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/briquets/briquet-clipper-metal-rose/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-briquet-dura-lot-de-5",
+  "slug": "briquet-dura-lot-de-5",
+  "name": "Briquet Dura – lot de 5",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 500,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2023/06/LOT-DE-4-500x550-c-default.png",
+    "alt": "Briquet Dura – lot de 5"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/briquets/briquet-dura-lot-de-5/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cendrier-en-verre-420-gold",
+  "slug": "cendrier-en-verre-420-gold",
+  "name": "Cendrier en verre 420 Gold",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/Glass-Ashtray-420-Gold_LRG-1-500x550-c-default.webp",
+    "alt": "Cendrier en verre 420 Gold"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cendrier/cendrier-en-verre-420-gold/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cendrier-en-verre-blue-dream",
+  "slug": "cendrier-en-verre-blue-dream",
+  "name": "Cendrier en verre Blue Dream",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/Glass-Ashtray-Blue-Dream_LRG-1-500x550-c-default.webp",
+    "alt": "Cendrier en verre Blue Dream"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cendrier/cendrier-en-verre-blue-dream/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-cendrier-en-verre-einstein-thc2-classic",
+  "slug": "cendrier-en-verre-einstein-thc2-classic",
+  "name": "Cendrier en verre Einstein THC2 Classic",
+  "categorySlug": "accessoires",
+  "subcategory": "briquets-cendriers",
+  "priceCents": 690,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/05/Glass-Ashtray-THC2-Classic_LRG-500x550-c-default.jpg",
+    "alt": "Cendrier en verre Einstein THC2 Classic"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cendrier/cendrier-en-verre-einstein-thc2-classic/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-gel-kleaner",
+  "slug": "gel-kleaner",
+  "name": "Gel Kleaner",
+  "categorySlug": "accessoires",
+  "subcategory": "entretien",
+  "priceCents": 400,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/IMG_1091-removebg-preview-1-500x550-c-default.webp",
+    "alt": "Gel Kleaner"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cleaner/gel-kleaner/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ },
+ {
+  "id": "lasducbd-spray-kleaner",
+  "slug": "spray-kleaner",
+  "name": "Spray Kleaner",
+  "categorySlug": "accessoires",
+  "subcategory": "entretien",
+  "priceCents": 2000,
+  "priceFrom": false,
+  "priceUnit": null,
+  "images": [
+   {
+    "src": "https://coffeeshop-lasducbd.fr/wp-content/uploads/2021/03/IMG_1093-removebg-preview-1-500x550-c-default.webp",
+    "alt": "Spray Kleaner"
+   }
+  ],
+  "attributes": {
+   "cbdPercent": null,
+   "thcPercent": null,
+   "origin": null,
+   "cultivation": null,
+   "formats": []
+  },
+  "variants": null,
+  "inStock": true,
+  "isNew": false,
+  "labReport": null,
+  "eshopUrl": "https://coffeeshop-lasducbd.fr/accessoires/cleaner/spray-kleaner/",
+  "dataNote": null,
+  "compliance": "ok",
+  "complianceNote": null,
+  "source": {
+   "system": "releve-pages-categories",
+   "importedAt": "2026-11-19"
+  }
+ }
+]

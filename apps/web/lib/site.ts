@@ -24,8 +24,8 @@ export const SITE = {
 };
 
 export const NAV = [
-  { href: "/produits", label: "Catalogue" },
-  { href: "/boutiques", label: "Boutiques" },
+  { href: "/produits", label: "Boutique en ligne" },
+  { href: "/boutiques", label: "Nos boutiques" },
   { href: "/decouvrir-le-cbd", label: "Découvrir le CBD" },
   { href: "/fidelite", label: "Fidélité" },
   { href: "/actualites", label: "Journal" },

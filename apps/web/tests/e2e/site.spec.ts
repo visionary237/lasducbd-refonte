@@ -1,7 +1,7 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
 
-const PAGES = ["/", "/produits", "/produits/fleurs-de-cbd", "/produits/fleurs-de-cbd/modele-de-fiche", "/boutiques", "/boutiques/rouen", "/decouvrir-le-cbd", "/fidelite", "/experience", "/actualites", "/actualites/cadre-legal-cbd-france-2026", "/infos-pratiques", "/contact", "/mentions-legales", "/confidentialite"];
+const PAGES = ["/", "/produits", "/produits/fleurs-de-cbd", "/produits/accessoires", "/produits/fleurs-de-cbd/zoap", "/panier", "/commande", "/produits/fleurs-de-cbd/modele-de-fiche", "/boutiques", "/boutiques/rouen", "/decouvrir-le-cbd", "/fidelite", "/experience", "/actualites", "/actualites/cadre-legal-cbd-france-2026", "/infos-pratiques", "/contact", "/mentions-legales", "/confidentialite"];
 
 // Consentement déjà donné (refus) pour les tests de pages, sauf tests dédiés
 async function preset(page: import("@playwright/test").Page) {
@@ -118,7 +118,7 @@ test("SEO : sitemap, robots, données structurées", async ({ page, request }) =
 });
 
 test.describe("accessibilité (axe, WCAG 2.2 AA)", () => {
-  for (const path of ["/", "/produits/fleurs-de-cbd/modele-de-fiche", "/boutiques/rouen", "/fidelite", "/contact", "/experience"]) {
+  for (const path of ["/", "/produits", "/produits/fleurs-de-cbd/zoap", "/produits/fleurs-de-cbd/modele-de-fiche", "/boutiques/rouen", "/fidelite", "/contact", "/experience"]) {
     test(path, async ({ page }) => {
       await preset(page);
       await page.emulateMedia({ reducedMotion: "reduce" });
@@ -127,4 +127,55 @@ test.describe("accessibilité (axe, WCAG 2.2 AA)", () => {
       expect(r.violations.map((v) => `${v.id} (${v.nodes.length}) ${v.nodes[0]?.target}`)).toEqual([]);
     });
   }
+});
+
+test.describe("boutique en ligne", () => {
+  test("parcours complet : fiche → grammage → panier → retrait en boutique → confirmation", async ({ page }) => {
+    await preset(page);
+    await page.goto("/produits/fleurs-de-cbd/zoap");
+    await expect(page.getByRole("heading", { level: 1, name: "Zoap" })).toBeVisible();
+    await page.getByText("10 g", { exact: true }).click();
+    await page.getByRole("button", { name: /Ajouter au panier · 50,00/ }).click();
+    const drawer = page.getByRole("dialog", { name: "Panier" });
+    await expect(drawer).toContainText("Zoap");
+    await expect(drawer).toContainText("Retrait en boutique — gratuit");
+    await drawer.getByRole("link", { name: "Passer commande" }).click();
+    await page.getByLabel("Prénom").fill("Léa");
+    await page.getByRole("textbox", { name: "Nom", exact: true }).fill("Martin");
+    await page.getByLabel("E-mail").fill("lea@example.fr");
+    await page.getByLabel(/18 ans ou plus/).check();
+    await page.getByLabel(/traiter ma commande/).check();
+    await page.getByRole("button", { name: "Valider la réservation" }).click();
+    await expect(page.getByRole("heading", { name: "Merci." })).toBeVisible();
+    await expect(page.getByText(/LADC-/)).toBeVisible();
+    await expect(page.getByRole("button", { name: /Panier, 0 article/ })).toBeVisible();
+  });
+
+  test("filtres : recherche, catégorie, tri synchronisés dans l'URL", async ({ page }) => {
+    await preset(page);
+    await page.goto("/produits");
+    await page.getByRole("button", { name: "Accessoires", exact: true }).click();
+    await expect(page).toHaveURL(/cat=accessoires/);
+    await page.getByLabel("Rechercher un produit").fill("grinder");
+    await page.getByLabel("Rechercher un produit").press("Enter");
+    await expect(page).toHaveURL(/q=grinder/);
+    await expect(page.getByRole("article").first()).toContainText(/Grinder/i);
+  });
+
+  test("produit « à partir de » : pas d'ajout au panier ambigu", async ({ page }) => {
+    await preset(page);
+    await page.goto("/produits/fleurs-de-cbd/skunk");
+    await expect(page.getByText("Grammages à synchroniser")).toBeVisible();
+    await expect(page.getByRole("button", { name: /Ajouter au panier/ })).toHaveCount(0);
+  });
+
+  test("ajout rapide d'un accessoire et livraison payante en dessous de 49 €", async ({ page }) => {
+    await preset(page);
+    await page.goto("/produits/accessoires");
+    await page.getByRole("button", { name: /Ajouter Grinder Gold 4 parties/ }).click();
+    await expect(page.getByRole("dialog", { name: "Panier" })).toContainText("16,90");
+    await page.goto("/panier");
+    await page.getByText("Livraison à domicile").click();
+    await expect(page.getByText("Frais de port à confirmer")).toBeVisible();
+  });
 });

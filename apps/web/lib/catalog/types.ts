@@ -41,5 +41,13 @@ export interface Product {
   eshopUrl?: string | null;    // fiche sur la boutique en ligne
   availability?: { storeSlug: string; inStock: boolean }[];
   isTemplate?: boolean;        // fiche gabarit de démonstration
-  source: { system: "woocommerce" | "manual" | "template"; importedAt?: string };
+  subcategory?: string | null;
+  priceFrom?: boolean;         // prix affiché « à partir de » (variantes non synchronisées)
+  variants?: { label: string; priceCents: number; inStock: boolean }[] | null;
+  inStock?: boolean;
+  isNew?: boolean;
+  dataNote?: string | null;    // incohérence relevée dans la source, à corriger
+  compliance?: "ok" | "legal-review";
+  complianceNote?: string | null;
+  source: { system: "woocommerce" | "manual" | "template" | "releve-pages-categories"; importedAt?: string };
 }

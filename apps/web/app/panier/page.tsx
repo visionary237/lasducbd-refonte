@@ -1,0 +1,4 @@
+import type { Metadata } from "next";
+import CartView from "./CartView";
+export const metadata: Metadata = { title: "Panier", robots: { index: false } };
+export default function Panier() { return <CartView />; }

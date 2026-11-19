@@ -19,13 +19,15 @@ describe("catalogue", () => {
   });
   it("ne publie une fleur que si le THC est renseigné et ≤ 0,3 %", () => {
     const base = mapWcProduct(wc())!;
-    expect(isPublishable(base)).toBe(true);
+    expect(isPublishable(base, true)).toBe(true);
     expect(isPublishable({ ...base, attributes: { ...base.attributes, thcPercent: 0.5 } })).toBe(false);
-    expect(isPublishable({ ...base, attributes: { ...base.attributes, thcPercent: null } })).toBe(false);
-    expect(isPublishable({ ...base, categorySlug: "accessoires", attributes: {} })).toBe(true);
+    expect(isPublishable({ ...base, attributes: { ...base.attributes, thcPercent: null } }, true)).toBe(false);
+    expect(isPublishable({ ...base, attributes: { ...base.attributes, thcPercent: null } }, false)).toBe(true);
+    expect(isPublishable({ ...base, categorySlug: "accessoires", attributes: {} }, true)).toBe(true);
   });
   it("formate les prix sans jamais deviner", () => {
-    expect(formatPrice(null)).toBe("Prix à importer");
+    expect(formatPrice(null)).toBe("Prix non communiqué");
+    expect(formatPrice(250, "le g", true).replace(/\s/g, " ")).toBe("À partir de 2,50 € le g");
     expect(formatPrice(890, "le gramme").replace(/\s/g, " ")).toBe("8,90 € le gramme");
   });
   it("retrouve la fiche gabarit", () => expect(getProduct("fleurs-de-cbd", "modele-de-fiche")).toBe(TEMPLATE_PRODUCT));

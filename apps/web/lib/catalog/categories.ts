@@ -40,6 +40,7 @@ export const CATEGORIES: Category[] = [
       { slug: "balances", name: "Balances de précision", eshopPath: `${E}/accessoires/balances-de-precision/` },
       { slug: "feuilles-filtres", name: "Feuilles & filtres", eshopPath: `${E}/accessoires/feuilles/` },
       { slug: "briquets-cendriers", name: "Briquets & cendriers", eshopPath: `${E}/accessoires/briquets/` },
+      { slug: "entretien", name: "Entretien", eshopPath: `${E}/accessoires/cleaner/` },
     ],
   },
   {

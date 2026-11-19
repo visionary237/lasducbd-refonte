@@ -37,10 +37,10 @@ export default function Hero() {
           <span className="hero-line block overflow-hidden pb-[0.06em]"><span className="block">haute couture.</span></span>
         </h1>
         <p className="hero-fade mt-8 max-w-xl text-lg leading-relaxed text-ivoire/85">
-          Fleurs, extractions et accessoires sélectionnés, chacun présenté avec son analyse. Le conseil en boutique, la commande en ligne.
+          Fleurs, résines, accessoires et cosmétiques sélectionnés. Commande en ligne livrée sous 48 h, ou retrait gratuit dans nos boutiques.
         </p>
         <div className="hero-fade mt-10 flex flex-wrap gap-3">
-          <Link href="/produits" className="inline-flex min-h-12 items-center rounded-full bg-or px-7 font-bold text-charbon transition hover:bg-or-2">Explorer le catalogue</Link>
+          <Link href="/produits" className="inline-flex min-h-12 items-center rounded-full bg-or px-7 font-bold text-charbon transition hover:bg-or-2">Acheter en ligne</Link>
           <Link href="/boutiques" className="inline-flex min-h-12 items-center rounded-full border border-ivoire/40 px-7 font-bold transition hover:border-or hover:text-or-2">Trouver une boutique</Link>
         </div>
       </div>
