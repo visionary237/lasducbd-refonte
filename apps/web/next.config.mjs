@@ -6,6 +6,8 @@ const security = [
 ];
 const nextConfig = {
   reactStrictMode: true,
+  output: "standalone",
+  outputFileTracingRoot: process.cwd(),
   images: { unoptimized: true },
   async headers() {
     return [
