@@ -1,8 +1,14 @@
-# DOERZ — Livrables du 19/11/2026
+# DOERZ × L'As du CBD — monorepo
 
-1. `site/` — **L'As du CBD · concept d'identité digitale** (Next.js). Concept indépendant non commandité. Voir `site/README.md`.
-   - `site/out/` : build statique prêt à servir · `site/captures/` : images portfolio · `site/docs/` : design system, inventaire des ressources, QA, étude UX.
-2. `game/` — **THE LOST ACE** (Phaser 3 + TypeScript + Vite). Voir `game/README.md`.
-   - `game/dist/` : build jouable · `game/captures/` : images portfolio · `game/docs/` : level design, specs des assets.
+| Dossier | Contenu |
+|---|---|
+| `apps/web` | Site commercial L'As du CBD (Next.js) — voir `apps/web/README.md` |
+| `packages/lost-ace` | Moteur de jeu de plateforme isolé et réutilisable (Phaser 3) |
 
-Installation : `npm install` dans chaque dossier (les `node_modules` ne sont pas inclus).
+```bash
+npm run install:all
+npm run build       # compile le jeu, l'exporte dans le site, puis compile le site
+npm test            # tests unitaires du site
+npm run test:e2e    # tests de bout en bout
+```
+Historique : tag `concept-v1` = concept éditorial initial ; branche `refonte/site-commercial` = cette refonte.

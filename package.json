@@ -1,0 +1,14 @@
+{
+  "name": "lasducbd-doerz",
+  "private": true,
+  "description": "Refonte du site L'As du CBD (apps/web) + moteur de jeu isolé DOERZ (packages/lost-ace)",
+  "scripts": {
+    "install:all": "npm --prefix apps/web install && npm --prefix packages/lost-ace install",
+    "build:game": "npm --prefix packages/lost-ace run build && npm --prefix packages/lost-ace run export:web",
+    "build": "npm run build:game && npm --prefix apps/web run build",
+    "dev": "npm --prefix apps/web run dev",
+    "test": "npm --prefix apps/web run test",
+    "test:e2e": "npm --prefix apps/web run test:e2e",
+    "check:compliance": "npm --prefix apps/web run check:compliance"
+  }
+}

@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+/* ============================================================
+   L'AS DU CBD — Design tokens v2 (refonte commerciale)
+   Luxe · culture urbaine · botanique. Source : docs/DESIGN_SYSTEM.md
+   ============================================================ */
+@theme {
+  --color-charbon: #101010;
+  --color-charbon-2: #181818;
+  --color-charbon-3: #222222;
+  --color-vert: #142b20;
+  --color-vert-2: #1d3b2c;
+  --color-vert-3: #2a5240;
+  --color-or: #c5a059;
+  --color-or-2: #d9be85;
+  --color-or-fonce: #7a5f2b; /* or lisible sur ivoire (5,18:1) */
+  --color-ivoire: #f2eee5;
+  --color-ivoire-2: #e6e0d3;
+
+  --font-display: "Cormorant Garamond Variable", "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Manrope Variable", "Manrope", system-ui, sans-serif;
+
+  --ease-lux: cubic-bezier(0.22, 1, 0.36, 1);
+  --radius-card: 18px;
+}
+
+:root { color-scheme: dark; }
+html, body { background: var(--color-charbon); overflow-x: clip; }
+body {
+  color: var(--color-ivoire);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+::selection { background: var(--color-or); color: var(--color-charbon); }
+:focus-visible { outline: 2px solid var(--color-or); outline-offset: 3px; border-radius: 4px; }
+
+/* ---------- Typographie ---------- */
+.t-display { font-family: var(--font-display); font-weight: 500; letter-spacing: -0.015em; line-height: 0.95; }
+.t-label { font-family: var(--font-sans); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.24em; text-transform: uppercase; }
+.t-eyebrow { font-family: var(--font-sans); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.24em; text-transform: uppercase; color: var(--color-or); }
+.t-num { font-family: var(--font-display); font-variant-numeric: lining-nums; }
+
+@layer components {
+  /* Filet doré double, utilisé avec parcimonie (cartes de catégorie, carte de fidélité) */
+  .gold-frame { position: relative; border: 1px solid rgb(197 160 89 / 0.45); border-radius: var(--radius-card); }
+  .gold-frame::before { content: ""; position: absolute; inset: 6px; border: 1px solid rgb(197 160 89 / 0.18); border-radius: calc(var(--radius-card) - 5px); pointer-events: none; }
+
+  /* Texture végétale : nervures de feuilles en SVG, très discrète */
+  .texture-botanique {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 240 240'%3E%3Cg fill='none' stroke='%23C5A059' stroke-opacity='.07' stroke-width='.8'%3E%3Cpath d='M20 220 C60 160 90 120 150 40'/%3E%3Cpath d='M58 166 C40 150 30 130 32 112 M78 140 C98 132 112 116 118 98 M96 116 C80 100 76 82 80 66 M116 90 C136 86 150 74 158 58'/%3E%3Cpath d='M160 230 C180 200 200 190 230 186'/%3E%3Cpath d='M190 202 C186 188 190 176 198 168'/%3E%3C/g%3E%3C/svg%3E");
+  }
+  /* Grain matière (papier / velours) */
+  .texture-grain { position: relative; isolation: isolate; }
+  .texture-grain::after {
+    content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; opacity: .06; mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .surface-ivoire { background: var(--color-ivoire); color: var(--color-charbon); color-scheme: light; }
+  .surface-ivoire .t-eyebrow { color: var(--color-or-fonce); }
+
+  .card-3d { perspective: 1400px; }
+  .card-3d__inner { transform-style: preserve-3d; position: relative; width: 100%; height: 100%; }
+  .card-3d__face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+  .card-3d__back { transform: rotateY(180deg); }
+
+  .marquee { display: flex; width: max-content; animation: marquee 38s linear infinite; }
+  .prose-lux p { margin-top: 1rem; line-height: 1.75; color: rgb(242 238 229 / .82); }
+  .prose-lux h2 { font-family: var(--font-display); font-size: 2rem; margin-top: 2.5rem; line-height: 1.1; }
+  .prose-lux ul { margin-top: 1rem; padding-left: 1.2rem; list-style: disc; color: rgb(242 238 229 / .82); }
+  .prose-lux li { margin-top: .4rem; line-height: 1.6; }
+  .prose-lux a { color: var(--color-or-2); text-decoration: underline; text-underline-offset: 3px; }
+}
+@keyframes marquee { to { transform: translateX(-50%); } }
+
+.skip-link { position: absolute; left: 1rem; top: -4rem; z-index: 200; background: var(--color-or); color: var(--color-charbon); padding: .75rem 1rem; border-radius: 999px; font-weight: 700; }
+.skip-link:focus { top: 1rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+}
