@@ -1,0 +1,22 @@
+{
+  "name": "the-lost-ace",
+  "version": "0.1.0",
+  "private": true,
+  "description": "THE LOST ACE — jeu de plateforme 2D indépendant (portfolio DOERZ). Phaser 3 + TypeScript + Vite.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4174",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vite": "^7.0.0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "viewports": [
+    {
+      "viewport": "desktop",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "tablet",
+      "horizontalOverflowPx": 0
+    },
+    {
+      "viewport": "mobile",
+      "horizontalOverflowPx": 0
+    }
+  ],
+  "axe": [
+    {
+      "path": "/?nointro",
+      "violations": [],
+      "passes": 29
+    },
+    {
+      "path": "/design-system/",
+      "violations": [],
+      "passes": 5
+    }
+  ],
+  "firstTab": "Aller au contenu"
+}
